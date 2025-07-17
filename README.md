@@ -5,6 +5,12 @@ Built for small and medium enterprises that want a lightweight alternative to ER
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Try it Live](https://purchase-order-manager-system.streamlit.app/)  
+No installation needed. Runs on the web instantly!
+
+---
 ## ✨ Features
 
 - 📋 Create new Purchase Orders with detailed fields
