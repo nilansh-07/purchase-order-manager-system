@@ -41,5 +41,5 @@ No installation needed. Runs on the web instantly!
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/purchase-order-manager-system.git
+git clone https://github.com/nilansh-07/purchase-order-manager-system.git
 cd purchase-order-manager-system
